@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "b5d8580b24f430f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "50d48955e3e98919",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3fac6c34905c5ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "事件/智械危机.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cfe650276bb22d04",
+    "type": "split",
+    "children": [
+      {
+        "id": "cad594e53daf2b4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b9c56dc0bb7bacb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f4f3c91c04f406e6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d59c6ab3235d02f8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b5eb4edc996b166c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9518bbbaaa5e5c8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adf144dfb1c6ce97",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "事件/智械危机.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "df144c9b5c84aa69",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "事件/智械危机.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7d1d7536d29f981d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b1e8348a52f10edf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "事件/智械危机.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "a3fac6c34905c5ed",
+  "lastOpenFiles": [
+    "事件/基因飞升.md",
+    "第一次接触.md",
+    "事件/智械危机.md",
+    "简介.md",
+    "事件",
+    "场景",
+    "场景.md"
+  ]
+}
