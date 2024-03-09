@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "事件/智械觉醒.md",
+                "file": "事件/时间线.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "事件/智械觉醒.md",
+                "file": "事件/时间线.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "事件/智械觉醒.md",
+                "file": "事件/时间线.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "事件/智械觉醒.md"
+                "file": "事件/时间线.md"
               }
             }
           }
@@ -148,10 +148,11 @@
   },
   "active": "a3fac6c34905c5ed",
   "lastOpenFiles": [
-    "事件/基因飞升.md",
     "事件/智械觉醒.md",
-    "实体档案/地球太空站.md",
+    "事件/时间线.md",
     "实体档案/月球基地.md",
+    "事件/基因飞升.md",
+    "实体档案/地球太空站.md",
     "实体档案/月球太空站.md",
     "实体档案",
     "事件/第一次接触.md",
