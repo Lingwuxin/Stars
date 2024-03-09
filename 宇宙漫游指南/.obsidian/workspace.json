@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "简介.md",
+                "file": "事件/智械觉醒.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "简介.md",
+                "file": "事件/智械觉醒.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "简介.md",
+                "file": "事件/智械觉醒.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "简介.md"
+                "file": "事件/智械觉醒.md"
               }
             }
           }
@@ -146,13 +146,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1b9c56dc0bb7bacb",
+  "active": "a3fac6c34905c5ed",
   "lastOpenFiles": [
-    "第一卷",
-    "事件/第一次接触.md",
-    "事件/智械危机.md",
     "事件/基因飞升.md",
+    "事件/智械觉醒.md",
+    "实体档案/地球太空站.md",
+    "实体档案/月球基地.md",
+    "实体档案/月球太空站.md",
+    "实体档案",
+    "事件/第一次接触.md",
     "简介.md",
+    "第一卷",
     "事件",
     "场景",
     "场景.md"
