@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "事件/智械危机.md",
+                "file": "简介.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "事件/智械危机.md",
+                "file": "简介.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "事件/智械危机.md",
+                "file": "简介.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "事件/智械危机.md"
+                "file": "简介.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "a3fac6c34905c5ed",
   "lastOpenFiles": [
-    "事件/基因飞升.md",
-    "第一次接触.md",
+    "事件/第一次接触.md",
     "事件/智械危机.md",
+    "事件/基因飞升.md",
     "简介.md",
     "事件",
     "场景",
