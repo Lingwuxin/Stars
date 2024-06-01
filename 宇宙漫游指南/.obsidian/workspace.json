@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "事件/基因飞升.md",
+                "file": "事件/人工智能觉醒.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "事件/基因飞升.md",
+                "file": "事件/人工智能觉醒.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "事件/基因飞升.md",
+                "file": "事件/人工智能觉醒.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "事件/基因飞升.md"
+                "file": "事件/人工智能觉醒.md"
               }
             }
           }
@@ -146,17 +146,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1b9c56dc0bb7bacb",
+  "active": "a3fac6c34905c5ed",
   "lastOpenFiles": [
-    "事件/第一次接触.md",
     "事件/基因飞升.md",
-    "时间线.md",
     "事件/文明联合.md",
     "事件/人工智能觉醒.md",
+    "事件/第一次接触.md",
+    "时间线.md",
+    "简介.md",
     "实体档案/月球基地.md",
     "实体档案/月球太空站.md",
     "实体档案/地球太空站.md",
-    "简介.md",
     "实体档案",
     "第一卷",
     "事件",
