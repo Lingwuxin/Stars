@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "实体/区域/启航新城/空间电磁弹射器.md",
+                "file": "实体/人物/王德法.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "实体/区域/启航新城/空间电磁弹射器.md",
+                "file": "实体/人物/王德法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "实体/区域/启航新城/空间电磁弹射器.md",
+                "file": "实体/人物/王德法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "实体/区域/启航新城/空间电磁弹射器.md"
+                "file": "实体/人物/王德法.md"
               }
             }
           }
@@ -148,14 +148,19 @@
   },
   "active": "18a58fc8cf7bc099",
   "lastOpenFiles": [
-    "实体/区域/启航新城/Pasted image 20240601174010.png",
-    "实体/区域/启航新城/空间电磁弹射器.md",
-    "Pasted image 20240601173955.png",
-    "实体/区域/启航新城",
+    "实体/人物/主角.md",
+    "实体/人物/王德法.md",
+    "实体/区域/月球太空站.md",
     "实体/区域/地球太空站.md",
     "实体/区域/文明联合纪念馆.md",
-    "实体/区域/月球太空站.md",
     "实体/区域/月球基地.md",
+    "实体/区域/启航新城/空间电磁弹射器.md",
+    "Pasted image 20240601181821.png",
+    "实体/区域/启航新城/Pasted image 20240601181550.png",
+    "实体/区域/启航新城/Pasted image 20240601180838.png",
+    "实体/区域/启航新城/Pasted image 20240601174010.png",
+    "Pasted image 20240601173955.png",
+    "实体/区域/启航新城",
     "简介.md",
     "第一卷/第一章.md",
     "事件/第一次接触.md",
@@ -163,8 +168,6 @@
     "事件/人工智能觉醒.md",
     "事件/文明联合.md",
     "事件/银河璀璨.md",
-    "实体/人物/王德法.md",
-    "实体/人物/主角.md",
     "时间线.md",
     "实体/人物",
     "实体/区域",
