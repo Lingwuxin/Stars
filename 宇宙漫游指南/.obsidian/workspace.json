@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第一卷/第一章.md",
+                "file": "实体/区域/启航新城/空间电磁弹射器.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "第一卷/第一章.md",
+                "file": "实体/区域/启航新城/空间电磁弹射器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "第一卷/第一章.md",
+                "file": "实体/区域/启航新城/空间电磁弹射器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第一卷/第一章.md"
+                "file": "实体/区域/启航新城/空间电磁弹射器.md"
               }
             }
           }
@@ -146,21 +146,29 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1b9c56dc0bb7bacb",
+  "active": "18a58fc8cf7bc099",
   "lastOpenFiles": [
-    "时间线.md",
-    "第一卷/第一章.md",
-    "实体档案/月球太空站.md",
-    "实体档案/月球基地.md",
-    "实体档案/文明联合纪念馆.md",
-    "实体档案/地球太空站.md",
+    "实体/区域/启航新城/Pasted image 20240601174010.png",
+    "实体/区域/启航新城/空间电磁弹射器.md",
+    "Pasted image 20240601173955.png",
+    "实体/区域/启航新城",
+    "实体/区域/地球太空站.md",
+    "实体/区域/文明联合纪念馆.md",
+    "实体/区域/月球太空站.md",
+    "实体/区域/月球基地.md",
     "简介.md",
-    "事件/银河璀璨.md",
-    "事件/文明联合.md",
-    "事件/人工智能觉醒.md",
+    "第一卷/第一章.md",
     "事件/第一次接触.md",
     "事件/基因飞升.md",
-    "实体档案",
+    "事件/人工智能觉醒.md",
+    "事件/文明联合.md",
+    "事件/银河璀璨.md",
+    "实体/人物/王德法.md",
+    "实体/人物/主角.md",
+    "时间线.md",
+    "实体/人物",
+    "实体/区域",
+    "实体",
     "第一卷",
     "事件",
     "场景",
