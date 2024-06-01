@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "50d48955e3e98919",
+        "id": "a4965f8efa4f472b",
         "type": "tabs",
         "children": [
           {
-            "id": "a3fac6c34905c5ed",
+            "id": "18a58fc8cf7bc099",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "实体档案/地球太空站.md",
+                "file": "第一卷/第一章.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "实体档案/地球太空站.md",
+                "file": "第一卷/第一章.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "实体档案/地球太空站.md",
+                "file": "第一卷/第一章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "实体档案/地球太空站.md"
+                "file": "第一卷/第一章.md"
               }
             }
           }
@@ -146,14 +146,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a3fac6c34905c5ed",
+  "active": "1b9c56dc0bb7bacb",
   "lastOpenFiles": [
-    "实体档案/文明联合纪念馆.md",
-    "实体档案/月球基地.md",
-    "实体档案/月球太空站.md",
     "时间线.md",
-    "简介.md",
+    "第一卷/第一章.md",
+    "实体档案/月球太空站.md",
+    "实体档案/月球基地.md",
+    "实体档案/文明联合纪念馆.md",
     "实体档案/地球太空站.md",
+    "简介.md",
     "事件/银河璀璨.md",
     "事件/文明联合.md",
     "事件/人工智能觉醒.md",
