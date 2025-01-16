@@ -15,10 +15,17 @@
       }
     },
     {
-      "query": "path:实体  ",
+      "query": "path:实体/结构  ",
       "color": {
         "a": 1,
         "rgb": 14069084
+      }
+    },
+    {
+      "query": "path:实体/人物  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
       }
     }
   ],
@@ -32,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.476986098068652,
+  "scale": 2.0707092497453146,
   "close": true
 }
